@@ -3,6 +3,7 @@
   * Règlements
     * [Règlement communautaire](community/rules/community.md "Règlement communautaire")
     * [Règlement du streamer](community/rules/streamer.md "Règlement du streamer")
+    * [Règles internes des groupes de validation](community/rules/validation_rules.md "Règles internes des groupes de validation")
   * [Procédure de médiation](community/mediation_process.md "Procédure de médiation")
   * [Rôles dans la communauté SADoJ](community/roles.md "Rôles dans la communauté SADoJ")
 * SADoJ Life US
@@ -20,6 +21,9 @@
     * [Code de prévention des incendies](life/rp/fire_code.md "Code de prévention des incendies")
     * [Code sociétés de sécurité privée](life/rp/private_security.md "Code sociétés de sécurité privée")
     * [Formation aviation](life/rp/aviation_training.md "Formation aviation")
+    * [Permis de chasse - Formation](life/rp/hunting_rules.md "Permis de chasse - Formation")
+    * [Code pénal](life/rp/penal_code.md "Code pénal")
+    * [Code executif ](life/rp/executive_code.md "Code executif")
   * Guides de jeu
     * [Guide de bonnes pratiques](life/guides/bestpractices.md "Guide de bonnes pratiques")
     * [Touches et commandes](life/guides/keys.md "Touches et commandes")
@@ -37,3 +41,5 @@
   * [Installer le site localement](sadoj-docs/install.md)
   * [Extensions du site](sadoj-docs/extensions.md)
   * [Racourcis StreamDeck](sadoj-docs/streamdeck.md)
+
+

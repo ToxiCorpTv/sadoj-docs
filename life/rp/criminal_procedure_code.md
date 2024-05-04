@@ -26,7 +26,7 @@ Ce document n’ajoute aucune réglementation RP mais uniquement des principes H
 
 **1.1.3** Le Procureur général nomme des procureurs avec l’accord de deux juges impartiaux. Il peut également les révoquer aux mêmes conditions.
 
-**1.1.4** Le Procureur Général peut être révoqué sur ordre du Gouverneur avec l’accord de deux juges impartiaux. Il peut également être soumis à une procédure de Recall, laquelle se déroule dans les mêmes conditions que dans le cas d’un gouverneur. En cas de destitution ou de démission, le Gouverneur, en accord avec deux juges et la Cour Suprême de San Andreas, nomme un Procureur général par intérim en exercice jusqu’aux élections, qui doivent se tenir le deuxième dimanche suivant l’acte de vacance du poste.
+**1.1.4** Le Procureur Général peut être révoqué sur ordre du Gouverneur avec l’accord de la cour suprème de San Andreas. Il peut également être soumis à une procédure de Recall, laquelle se déroule dans les mêmes conditions que dans le cas d’un gouverneur. En cas de destitution ou de démission, le Gouverneur, en accord avec deux juges et la Cour Suprême de San Andreas, nomme un Procureur général par intérim en exercice jusqu’aux élections, qui doivent se tenir le deuxième dimanche suivant l’acte de vacance du poste.
 
 **1.1.5** Le procureur général de San Andreas émet des directives qui doivent être suivies par les services de police.
 
@@ -197,7 +197,7 @@ Un mandat peut être : de perquisition et de saisie, d’arrêt ou de remise des
 
 **3.4.2** La mise en accusation doit survenir sous 48h, sans quoi le suspect devra être relâché.
 
-**3.4.3** Le procureur général de San Andreas est libre de requalifier les faits jusqu'à 24 heures avant le début du procès. L’accusé et son avocat en seront informés immédiatemment.
+**3.4.3** Le procureur est libre de requalifier les faits jusqu'à 24 heures avant le début du jugement, y compris en cas d’accord. L’accusé et son avocat en seront informés immédiatement. Cette procédure n'est nulle que dans le cas où le procès (ou l'interrogatoire en vue de l'accord) a officiellement débuté et que les charges ont été exposées formellement. Le cas échéant, la mise en accusation assortie au jugement en cours est annulée et le suspect relaxé pour tous les faits notifiés sur ledit acte d'accusation.
 
 **3.4.4** Le dossier concernant l'instruction de l'affaire qui comporte les faits, l'intégralité des éléments de preuves et les actes de procédures est instruit par le Ministère public. Le dossier est envoyé à l'accusé et à son avocat 72 heures au moins avant le début du procès.
 </br>

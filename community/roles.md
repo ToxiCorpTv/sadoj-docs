@@ -40,9 +40,9 @@
           <li>Accepter les nouveaux membres</li>
         </ul>
       </td>
-      <td style="text-align: center;">7</td>
+      <td style="text-align: center;">7 (7 voulu)</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Doryann, Guillaume, Dylan51, Antonin, Valdum, SEBEDIA</td>
+      <td style="text-align: center;">Pierre, Guillaume, Dylan51, Antonin, Valdum, Toxi, Spen82</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <tr>
@@ -178,9 +178,9 @@
           <li>Création de pages</li>
         </ul>
       </td>
-      <td style="text-align: center;">9</td>
+      <td style="text-align: center;">8</td>
       <td style="text-align: center;">Pierre</td>
-      <td style="text-align: center;">Pierre, Jordan, Guillaume, Roni, Armand, Elkas, Doryann, Kentinsly, Dylan51</td>
+      <td style="text-align: center;">Pierre, Jordan, Guillaume, Roni, Elkas, Doryann, Kentinsly, Dylan51</td>
       <td style="text-align: center;">Tout le monde après formation de Pierre <br> <br> Retrait possible en cas d'inactivité ou de mauvaise manipulation, réintégration après nouvelle formation.</td>
     </tr>
   <tr>
@@ -270,9 +270,9 @@
           <li>Traitement des situations juridiques particulières</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">6 (7 voulu)</td>
       <td style="text-align: center;">Guillaume</td>
-      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Armand, Antonin</td>
+      <td style="text-align: center;"> Guillaume, Kuro, Backdraft, Esteban, Dylan51, Antonin</td>
       <td style="text-align: center;">Vote des membres de la commu <br><br><strong>3 mois d'ancienneté dans la communauté</td>
     </tr>
     <td style="text-align: center;">Groupe Dark (Life)</td>
@@ -367,9 +367,9 @@
           <li>Personnes touchant au mapping</li>
         </ul>
       </td>
-      <td style="text-align: center;">6 (7 voulu)</td>
+      <td style="text-align: center;">4 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Théo, TRGrey, Kuro, Azzox, Thomas, Ludo</td>
+      <td style="text-align: center;">Théo, Kuro, Azzox, Thomas</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Validation Véhicules</td>
@@ -379,9 +379,9 @@
           <li>Personnes touchant aux véhicules</li>
         </ul>
       </td>
-      <td style="text-align: center;">7 (7 voulu)</td>
+      <td style="text-align: center;">5 (7 voulu)</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Guillaume, Azzox, Elkas, Taykay, Doryann, Max82, thracios</td>
+      <td style="text-align: center;">Guillaume, Azzox, Taykay, Doryann, thracios</td>
       <td style="text-align: center;">Vote des membres du rôle</td>
     </tr>
     <td style="text-align: center;">Animateur de réunion</td>
@@ -405,9 +405,9 @@
       <ul>
       <li>Se rendre disponible si un membre souhaite ajouter une information à un sujets ou si un auteur souhaite supprimer / modifier son sujet </li>
       </td>
-      <td style="text-align: center;">8</td>
+      <td style="text-align: center;">7</td>
       <td style="text-align: center;">Aucun</td>
-      <td style="text-align: center;">Pierre, Roni, Elkas, Doryann, Dylan51, Bragon, Valdum, Spen82</td>
+      <td style="text-align: center;">Pierre, Roni, Elkas, Dylan51, Bragon, Valdum, Spen82</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
     <td style="text-align: center;">Gestionnaire VPS</td>
@@ -447,9 +447,9 @@
           <li> Gestion du service FAA</li>
         </ul>
       </td>
-      <td style="text-align: center;">5 (5 souhaité) dont 1 policier</td>
-      <td style="text-align: center;">Vacant</td>
-      <td style="text-align: center;">Back_draftt, Mac (police), Armand, Remigdv, thracios</td>
+      <td style="text-align: center;">4 (5 souhaité) dont 1 policier</td>
+      <td style="text-align: center;">Mac</td>
+      <td style="text-align: center;">Back_draftt, Mac (police), Remigdv, thracios</td>
       <td style="text-align: center;">Vote des membres de la commu</td>
     </tr>
   </tbody>
